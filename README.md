@@ -1,5 +1,4 @@
 # My Expenses
-Note: Source code is in development branch
 
 # Features
 * Authentication (login, register, logout)

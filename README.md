@@ -1,6 +1,6 @@
 # My Expenses
 Template borrowed from: https://themeforest.net/item/gogo-react-bootstrap-4-admin-dashboard/22544383
-Code hidden
+(code hidden)
 
 # Features
 * Authentication (login, register, logout)
